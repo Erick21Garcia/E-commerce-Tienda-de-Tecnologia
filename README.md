@@ -1,4 +1,4 @@
-# E-commerce-Proyecto-de-Grado
+# E-commerce - Tienda de Tecnologia
 "Desarrollo de un E-commerce con PHP: Implementación de Plataforma de Compras y Administración"
 
 Instrucciones.-
