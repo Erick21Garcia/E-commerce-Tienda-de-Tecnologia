@@ -3,8 +3,6 @@
 
 Instrucciones.-
 
-1.- Descomprimir los archivos .rar "docs" y "plugins"
+1.- Pagina principal para cliente "http://localhost/Proyecto%20E-commerce/Cliente/indexCliente.php"
 
-2.- Pagina principal para cliente "indexCliente.php"
-
-3.- Pagina principal para administrador "index.php"
+2.- Pagina principal para administrador "http://localhost/Proyecto%20E-commerce/Administrador/index.php"
