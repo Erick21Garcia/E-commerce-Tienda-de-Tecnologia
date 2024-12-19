@@ -1,4 +1,4 @@
-#E-commerce - Tienda de Tecnología
+# E-commerce - Tienda de Tecnología
 
 Este proyecto es una plataforma de comercio electrónico desarrollada con PHP. Ofrece funcionalidades para que los clientes puedan explorar y adquirir productos de tecnología, así como un panel administrativo para gestionar el catálogo de productos, pedidos y usuarios.
 
